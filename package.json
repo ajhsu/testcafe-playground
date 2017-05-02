@@ -1,0 +1,25 @@
+{
+  "name": "testcafe-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "testcafe": "^0.15.0"
+  },
+  "scripts": {
+    "test": "testcafe chrome,firefox,safari index.js"
+  },
+  "author": "AJ Hsu",
+  "license": "MIT",
+  "dependencies": {
+    "testcafe": "^0.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ajhsu/testcafe-playground.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ajhsu/testcafe-playground/issues"
+  },
+  "homepage": "https://github.com/ajhsu/testcafe-playground#readme",
+  "description": ""
+}
